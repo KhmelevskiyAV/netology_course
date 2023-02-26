@@ -1,2 +1,1 @@
-# netology_course
-This repository with my solutions from course https://github.com/netology-code/devpy
+В этом репозитории я храню историю обучения по программе Нетодологии "DevOps-инженер с нуля"
